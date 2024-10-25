@@ -4,6 +4,7 @@ import Home from './components/Home'
 import Navbar from './components/Navbar'
 import SmallSection from './components/SmallSection'
 import Tracks from './components/Tracks'
+import Student from './components/Student'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
      <SmallSection/>
      <Tracks/>
      <Section/>
+     <Student/>
      </div>
     </>
   )

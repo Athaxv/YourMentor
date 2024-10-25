@@ -92,3 +92,14 @@
     border-radius: 12px;
     
 }
+.stu {
+    color: #ACACAC;
+    /* line-height: 155px; */
+    font-weight: 400;
+}
+.section-background {
+    background: radial-gradient(circle, 
+      rgba(255, 255, 255, 1) 70%, /* White in the center */
+      rgba(245, 159, 54, 0.2) 100% /* Light orange towards the edges */
+    );
+}  
