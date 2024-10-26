@@ -12,21 +12,21 @@ const SmallSection = () => {
         <div>
             <h1 className='
             text-2xl'>Proposed Solution</h1>
-            <p className='mt-3 para font-light'>Presenting our innovative AI-driven platform as a solution</p>
+            <p className='mt-3 font-light'>Presenting our innovative AI-driven platform as a solution</p>
         </div>
       </div>
       <div className='flex gap-3'>
         <img className='svg' src={svg2} alt="" />
         <div>
             <h1 className='text-2xl'>Future Prospects</h1>
-            <p className='mt-3 para font-light'>Presenting our innovative AI-driven platform as a solution</p>
+            <p className='mt-3  font-light'>Presenting our innovative AI-driven platform as a solution</p>
         </div>
       </div>
       <div className='flex gap-3'>
         <img className='svg' src={svg3} alt="" />
         <div>
             <h1 className='text-2xl'>Call to Action</h1>
-            <p className='mt-3 para font-light'>Presenting our innovative AI-driven platform as a solution</p>
+            <p className='mt-3  font-light'>Presenting our innovative AI-driven platform as a solution</p>
         </div>
       </div>
     </div>

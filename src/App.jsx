@@ -5,6 +5,8 @@ import Navbar from './components/Navbar'
 import SmallSection from './components/SmallSection'
 import Tracks from './components/Tracks'
 import Student from './components/Student'
+import Newsletter from './components/Newsletter'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -17,6 +19,8 @@ function App() {
      <Tracks/>
      <Section/>
      <Student/>
+     <Newsletter/>
+     <Footer/>
      </div>
     </>
   )

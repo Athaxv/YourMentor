@@ -99,7 +99,37 @@
 }
 .section-background {
     background: radial-gradient(circle, 
-      rgba(255, 255, 255, 1) 70%, /* White in the center */
-      rgba(245, 159, 54, 0.2) 100% /* Light orange towards the edges */
+      rgba(255, 255, 255, 1) 80%, /* White in the center */
+      rgba(245, 174, 88, 0.2) 100% /* Light orange towards the edges */
     );
-}  
+} 
+.letter {
+    background-color: #3f055c;
+    opacity: 0.9;
+    width: 800px;
+    color: white;
+    /* background-image: url("./assets/Ellipse 40 (1).png"); */
+    transform: translateX(-1rem);
+    background-size: cover;
+} 
+.let-btn {
+    background-color: #FF7426;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    width: 75px;
+    justify-content: center;
+    margin-left: 13.5rem;
+    margin-top: 4px;
+}
+.footer {
+    color: #606060;
+    background-color: #FDF8EE;
+}
+.foot {
+    line-height: 50px;
+}
+.foot-foot {
+    color: #00052E;
+}

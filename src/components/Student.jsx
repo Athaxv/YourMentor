@@ -5,7 +5,7 @@ const Student = () => {
     <div className='p-20 section-background '>
       <div className="flex justify-center items-center mb-10">
       <div>
-        <h1 className='text-3xl font-medium'>What student’s say</h1>
+        <h1 className='text-3xl font-medium flex justify-center'>What student’s say</h1>
         <p className="stu">Lorem Ipsum is simply dummy text of the printing.</p>
       </div>
       </div>
