@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="navbar p-10 h-[60px] items-center  flex justify-around">
       <div className='flex'>
         <img className='h-[24px]' src={logo} alt="go" />
-        <h1 className='font-bold  font-3xl'>YourMentor</h1>
+        <h1 className='font-bold  font-4xl' >EduSphere</h1>
       </div>
       <nav className='flex'>
         <ul className=' font-medium items-center flex gap-16 '>

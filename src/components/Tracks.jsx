@@ -17,8 +17,8 @@ const Tracks = () => {
       </div>
       </div>
       <div className='flex gap-5 p-20'>
-        <div className='shadow-md p-3 rounded-md w-[490px]'>
-            <img src={image1}  alt="" />
+        <div className='shadow-md p-3 rounded-md w-[490px] '>
+            <img src={image1}  className='h-[300px]' alt="" />
             <p className='mt-2 font-mono mb-5'>Lorem ipsum dolor sit, Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, saepe. amet consectetur adipisicing elit. Velit, magnam.</p>
             <button className='btn-btn '>Read more</button>
         </div>
